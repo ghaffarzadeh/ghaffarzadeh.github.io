@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wardrop Equilibrium | Babak Ghaffarzadeh</title>
+    <link>https://ghaffarzadeh.github.io/tag/wardrop-equilibrium/</link>
+      <atom:link href="https://ghaffarzadeh.github.io/tag/wardrop-equilibrium/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wardrop Equilibrium</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Sep 2022 05:04:25 +0000</lastBuildDate>
+    <image>
+      <url>https://ghaffarzadeh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Wardrop Equilibrium</title>
+      <link>https://ghaffarzadeh.github.io/tag/wardrop-equilibrium/</link>
+    </image>
+    
+    <item>
+      <title>Generalized Wardrop Equilibrium for Charging Station Selection and Route Choice of Electric Vehicles in Joint Power Distribution and Transportation Networks</title>
+      <link>https://ghaffarzadeh.github.io/publication/generalized-wardrop-equilibrium-for-charging-station-selection-and-route-choice-of-electric-vehicles-in-joint-power-distribution-and-transportation-networks/</link>
+      <pubDate>Tue, 06 Sep 2022 05:04:25 +0000</pubDate>
+      <guid>https://ghaffarzadeh.github.io/publication/generalized-wardrop-equilibrium-for-charging-station-selection-and-route-choice-of-electric-vehicles-in-joint-power-distribution-and-transportation-networks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

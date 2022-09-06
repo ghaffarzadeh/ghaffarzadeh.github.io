@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ghaffarzadeh.github.io/sitemap.xml
